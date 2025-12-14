@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add all file" />
+    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add all file">
+      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/challenge/chal_1.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/chapter01.md" beforeDir="false" afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/chapter01.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TLCL-Persian" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 6
@@ -24,7 +30,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "last_opened_file_path": "E:/linux/tlcl-persian/devops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
@@ -57,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765343964920</updated>
-      <workItem from="1765343965833" duration="1713000" />
+      <workItem from="1765343965833" duration="7808000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add all file">
       <option name="closed" value="true" />
