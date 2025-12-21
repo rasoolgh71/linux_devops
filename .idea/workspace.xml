@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add all file">
-      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/challenge/chal_1.md" afterDir="false" />
+    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add chapter 1 and file">
+      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/img_1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/chapter01.md" beforeDir="false" afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/01/chapter01.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/chapter02.md" beforeDir="false" afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/chapter02.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765343964920</updated>
-      <workItem from="1765343965833" duration="7808000" />
+      <workItem from="1765343965833" duration="18909000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add all file">
       <option name="closed" value="true" />
@@ -72,7 +71,42 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
       <updated>1765344431746</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL‎−۰۰۰۰۲" summary="add chapter 1">
+      <option name="closed" value="true" />
+      <created>1765695960803</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1765695960803</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۳" summary="add chapter 1">
+      <option name="closed" value="true" />
+      <created>1765695962180</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1765695962180</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۴" summary="add chapter 1">
+      <option name="closed" value="true" />
+      <created>1765695963520</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
+      <updated>1765695963520</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۵" summary="add chapter1">
+      <option name="closed" value="true" />
+      <created>1765695975187</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
+      <updated>1765695975187</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۶" summary="add chapter1">
+      <option name="closed" value="true" />
+      <created>1765696002997</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۶" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
+      <updated>1765696002997</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +114,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add all file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add all file" />
+    <MESSAGE value="add chapter 1" />
+    <MESSAGE value="add chapter1" />
+    <MESSAGE value="add chapter 1 and file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter 1 and file" />
   </component>
 </project>
