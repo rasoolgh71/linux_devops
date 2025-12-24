@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add chapter 1 and file">
-      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/img_1.png" afterDir="false" />
+    <list default="true" id="19f1f450-20eb-4726-8fbf-3acd845d8fce" name="Changes" comment="add chapter 3 and file33">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/chapter02.md" beforeDir="false" afterPath="$PROJECT_DIR$/TLCL-Persian/TLCL-Persian/Book/02/chapter02.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +13,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TLCL-Persian" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="36dkhxgEHrCMMjoex75fCCsYvKM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -29,7 +26,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "E:/linux/tlcl-persian/devops",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
@@ -62,7 +59,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1765343964920</updated>
-      <workItem from="1765343965833" duration="18909000" />
+      <workItem from="1765343965833" duration="19046000" />
+      <workItem from="1766552663089" duration="3567000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add all file">
       <option name="closed" value="true" />
@@ -106,7 +104,14 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۶" />
       <updated>1765696002997</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL‎−۰۰۰۰۷" summary="add chapter 3 and file33">
+      <option name="closed" value="true" />
+      <created>1766298139594</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۷" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۷" />
+      <updated>1766298139594</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +122,8 @@
     <MESSAGE value="add chapter 1" />
     <MESSAGE value="add chapter1" />
     <MESSAGE value="add chapter 1 and file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add chapter 1 and file" />
+    <MESSAGE value="add chapter 3 and file" />
+    <MESSAGE value="add chapter 3 and file33" />
+    <option name="LAST_COMMIT_MESSAGE" value="add chapter 3 and file33" />
   </component>
 </project>
