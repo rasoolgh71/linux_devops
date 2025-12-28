@@ -44,6 +44,10 @@
 
 ```bash
 cp -u *.html destination
+
+cp -au source destination // copy all file and hidden file
+
+rsync -av --update source/ dest/
 ```
 
 ---
